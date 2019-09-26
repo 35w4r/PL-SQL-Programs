@@ -17,4 +17,4 @@ begin
 		dbms_output.put_line('reverse number'||rev);
 end;
 /
----------©copyrights $aimohanOverFlow------------
+---------©copyrights $AnonOverFlow------------	
